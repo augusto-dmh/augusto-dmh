@@ -11,13 +11,12 @@
   
 <br>
 <div style="display: inline_block">
-  <img style="width: 50px; height: 40px" alt="js-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img style="width: 50px; height: 40px" alt="nodejs-icon"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img style="width: 50px; height: 40px" alt="laravel-icon" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"/>
-  <img style="width: 50px; height: 40px" alt="html-icon" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
-  <img style="width: 50px; height: 40px" alt="css-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
+  <img style="width: 50px; height: 40px" alt="nodejs-icon"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img style="width: 50px; height: 40px" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
+  <img style="width: 50px; height: 40px" alt="microsoft-sql-server-icon" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"/>
+  <img style="width: 50px; height: 40px" alt="tailwindcss-icon" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"/>
   <img style="width: 50px; height: 40px" alt="html-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img style="width: 50px; height: 40px" alt="css-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </div>
 
 ##
