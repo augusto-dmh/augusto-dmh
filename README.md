@@ -1,6 +1,6 @@
 ## Hello there 👋🏻
 
-<img style="max-width: 100%;" src="https://github.com/augusto-dmh/augusto-dmh/assets/130018859/f3573937-79c1-45f0-9e27-296c8e2b2fcd">
+<img style="max-width: 100%;" src="https://github.com/user-attachments/assets/d262892d-5fd6-4a41-b7fc-d354b6ba030a">
 &nbsp;
 <p>Hi, my name is Augusto. I tried coding at the end of high school and now i'm taking BS in Computer Science.</p>
 <br>
