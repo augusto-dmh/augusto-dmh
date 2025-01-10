@@ -5,10 +5,9 @@
 <p>Hi, my name is Augusto. I tried coding at the end of high school and now i'm taking BS in Computer Science.</p>
 <br>
 
+* Currently working as a full-stack developer in an intership, dealing with a legacy system migration.
 * My interest lays on web development, especially on back-end.
-* Currently in an internship dealing with legacy system migrations.
-* Inclinated to full-stack due to Laravel.
-  
+
 <br>
 <div style="display: inline_block">
   <img style="width: 50px; height: 40px" alt="laravel-icon" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"/>
